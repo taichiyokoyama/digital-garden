@@ -1,4 +1,9 @@
-See: [Principles](./docs/principles.md)
+## Quick links
+- [Daily](./daily/)
+- [Daily index](./daily/README.md)
+- [Principles](./docs/principles.md)
+
+---
 
 # Digital Garden
 
