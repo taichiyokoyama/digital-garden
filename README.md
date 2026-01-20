@@ -1,6 +1,5 @@
 ## Quick links
 - [Daily](./daily/)
-- [Daily index](./daily/README.md)
 - [Principles](./docs/principles.md)
 
 ---
