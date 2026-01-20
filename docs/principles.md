@@ -9,12 +9,12 @@ It’s not a collection of finished work—it's a place to grow notes, thoughts,
 - **Identity vault**: unlike social media where things disappear, this is where my values, learnings, and thinking can accumulate.
 
 ## How I publish
-- **GitHub**: grow it (daily notes / weekly reflections)  
-  Short is fine. If I feel it’s valuable, I’ll save it—even as a single line.
-- **Substack**: edit and deliver what I’ve gathered (monthly digest)  
+- **GitHub**: grow it (daily notes / weekly reflections).  
+  Short is fine—if I feel it’s valuable, I’ll save it, even as a single line.
+- **Substack**: edit and deliver what I’ve gathered (monthly digest).  
   I publish the monthly digest on Substack.
-- **Social / community (X / Discord / LINE, etc.)**: mainly announcements, links, and pointers.
-  I generally don’t reply (only minimal replies when needed).
+- **Social / community (X / Discord / LINE, etc.)**: mainly announcements, links, and pointers.  
+  I generally don’t reply (only minimal replies when needed).  
   I use social mainly as a signpost; deeper thoughts live on GitHub/Substack.
 
 ## Boundaries
@@ -22,8 +22,8 @@ It’s not a collection of finished work—it's a place to grow notes, thoughts,
 - I write based on **public information**.
 - I avoid long quotes or reposting; I mainly use **links + key points + my own words**.
 - After reading the sources, I may use **AI** for outlining, summarizing, or drafting.
-- I prioritize links, key points, and questions over debates.
-- This is an archive of learning and references rather than a place for debates.
+- I prioritize links, key points, and questions over debate.
+- This is an archive of learning and references—not a place for debate.
 
 ## One-line summary
-“Grow on GitHub → deliver on Substack → use social mainly for announcements.”
+Grow on GitHub → deliver on Substack → use social mainly for announcements.
