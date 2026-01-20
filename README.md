@@ -7,7 +7,7 @@
 # Digital Garden
 
 Daily notes & small reflections.  
-Monthly digest: Substack https://substack.com/@futurereport  
+Monthly digest: Substack https://substack.com/@taichiyokoyama 
 Personal views only. Based on public information.
 
 ## Structure
