@@ -13,7 +13,9 @@ It’s not a collection of finished work—it's a place to grow notes, thoughts,
   Short is fine. If I feel it’s valuable, I’ll save it—even as a single line.
 - **Substack**: edit and deliver what I’ve gathered (monthly digest)  
   I publish the monthly digest on Substack.
-- **Social / community (X / Discord / LINE, etc.)**: mainly announcements, links, and pointers. I generally don’t reply (only minimal replies when needed).
+- **Social / community (X / Discord / LINE, etc.)**: mainly announcements, links, and pointers.
+  I generally don’t reply (only minimal replies when needed).
+  I use social mainly as a signpost; deeper thoughts live on GitHub/Substack.
 
 ## Boundaries
 - Everything here reflects my **personal views**.
