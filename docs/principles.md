@@ -9,15 +9,18 @@ It’s not a collection of finished work—it's a place to grow notes, thoughts,
 - **Identity vault**: unlike social media where things disappear, this is where my values, learnings, and thinking can accumulate.
 
 ## How I publish
-- **GitHub**: grow it (daily notes / weekly reflections)
-- **Substack**: edit and deliver what I’ve gathered (monthly digest)
-- **Social (X / Discord, etc.)**: mainly announcements & links. I generally don’t reply (only minimal replies when needed).
+- **GitHub**: grow it (daily notes / weekly reflections)  
+  Short is fine. If I feel it’s valuable, I’ll save it—even as a single line.
+- **Substack**: edit and deliver what I’ve gathered (monthly digest)  
+  I publish the monthly digest on Substack.
+- **Social / community (X / Discord / LINE, etc.)**: mainly announcements, links, and pointers. I generally don’t reply (only minimal replies when needed).
 
 ## Boundaries
 - Everything here reflects my **personal views**.
 - I write based on **public information**.
 - I avoid long quotes or reposting; I mainly use **links + key points + my own words**.
-- I may use **AI** for outlining, summarizing, or drafting after reading the sources.
+- After reading the sources, I may use **AI** for outlining, summarizing, or drafting.
+- I prioritize links, key points, and questions over debates.
 - This is an archive of learning and references rather than a place for debates.
 
 ## One-line summary
