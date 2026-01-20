@@ -1,3 +1,5 @@
+See: [Principles](./docs/principles.md)
+
 # Digital Garden
 
 Daily notes & small reflections.  
