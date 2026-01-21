@@ -2,8 +2,11 @@
 
 One note per day (even a single line is fine).
 
+## Where to write
+- `daily/YYYY/MM/YYYY-MM-DD.md`
+
 ## File name
-- YYYY-MM-DD.md
+- `YYYY-MM-DD.md`
 
 ## Template
 - Link:
