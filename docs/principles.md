@@ -18,6 +18,7 @@ It’s not a collection of finished work—it's a place to grow notes, thoughts,
   I use social mainly as a signpost; deeper thoughts live on GitHub/Substack.
 
 ## Boundaries
+- I keep social minimal to protect my time and mental health.
 - Everything here reflects my **personal views**.
 - I write based on **public information**.
 - I avoid long quotes or reposting; I mainly use **links + key points + my own words**.
